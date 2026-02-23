@@ -1,0 +1,7 @@
+.about-image.round {
+  border-radius: 0 !important;
+  width: auto !important;
+  max-width: 100% !important;
+  height: auto !important;
+  max-height: 15em !important;
+}

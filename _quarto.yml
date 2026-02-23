@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Climate Adaption of Democracy"
+  site-url: https://soerendamsbo.github.io/cad
+  search: false
+  page-footer: | 
+    This website is powered by [![Quarto](https://quarto.org/quarto.png){height=15}](https://quarto.org/) and <a alt="GitHub Pages" href="https://pages.github.com" style="text-decoration: none">{{< fa brands github >}} GitHub Pages</a>.
+  navbar:
+    right:
+      - text: "Home"
+        file: index.qmd
+  #     - research.qmd
+  #     - media.qmd
+
+
+ 
+
