@@ -8,7 +8,7 @@ about:
 
 Welcome to the home of the research project, **Climate Adaptation of Democracy: Climate impacts on environmental and democratic attitudes**, based at the [Department of Political Science](https://politicalscience.ku.dk/), University of Copenhagen. The project is funded by the Independent Research Fund Denmark and led by {{< fa person >}} [Professor Kasper M. Hansen](https://kaspermhansen.eu) together with {{< fa person >}} [Postdoc Søren Damsbo-Svendsen](https://soerendamsbo.github.io) and {{< fa person >}} [Senior Researcher Morten A. Dahl Larsen](http://research.dmi.dk/staff/all-staff/mla/) from the Danish Meteorological Institute (DMI).
 
-The project investigates the impacts of adverse climate events on democratic institutions and attempts to answer the following research question: *How do adverse local climate events affect citizens' attitudes towards democracy and the green transition, and what strategies for communication can help create effects that are environmentally and democratically sustainable?*
+The CAD project investigates the impacts of adverse climate events on democracy by addressing the research question: *How do adverse local climate events affect citizens' attitudes towards democracy and the green transition, and what strategies for communication can help create effects that are environmentally and democratically sustainable?*
 
 ::: {style="display: flex; justify-content: space-around; align-items: center; margin-top: 4em; gap: 2em;"}
 ![](media/ku-logo.png){width="100px"}

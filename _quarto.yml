@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Climate Adaption of Democracy"
+  title: "Climate Adaptation of Democracy"
   site-url: https://soerendamsbo.github.io/cad
   search: false
   page-footer: | 
