@@ -1,0 +1,31 @@
+---
+image: media/cad-logo.svg
+sidebar: false
+css: custom.css
+about:
+  template: jolla
+---
+
+# Climate Adaptation of Democracy
+
+## Climate impacts on environmental and democratic attitudes
+
+<div style="text-align: center;">
+
+Kasper M. Hansen --- Søren Damsbo-Svendsen --- Morten A. Dahl Larsen
+
+*University of Copenhagen --- Danish Meteorological Institute (DMI)*
+
+2026 -- 2028 
+
+</div>
+
+::: {style="display: flex; justify-content: space-around; align-items: center; margin-top: 4em; gap: 2em;"}
+![](media/ku-logo.png){width="100px"}
+
+![](https://dff.dk/media/rbihpmen/b0775090-618d-42f6-abb2-3588e1240044.png){width="100px"}
+
+![](media/dmi-logo.png){width="100px"}
+:::
+
+
