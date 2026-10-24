@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Climate Adaptation of Democracy",
-    "section": "",
-    "text": "Welcome to the site of the research project, Climate Adaptation of Democracy: Climate impacts on environmental and democratic attitudes. CAD investigates the impacts of adverse climate events on democracy by addressing the research question: How do adverse local climate events affect citizens’ attitudes towards democracy and the green transition, and what strategies for communication can help create effects that are environmentally and democratically sustainable?\nThe CAD project is based at the Department of Political Science, University of Copenhagen. It is funded by the Independent Research Fund Denmark and led by  Professor Kasper M. Hansen together with  Postdoc Søren Damsbo-Svendsen and  Senior Researcher Morten A. Dahl Larsen from the Danish Meteorological Institute (DMI)."
-  },
-  {
     "objectID": "front-page.html",
     "href": "front-page.html",
     "title": "Climate Adaptation of Democracy",
@@ -21,10 +14,31 @@
     "text": "Kasper M. Hansen — Søren Damsbo-Svendsen — Morten A. Dahl Larsen\nUniversity of Copenhagen — Danish Meteorological Institute (DMI)\n2026 – 2028"
   },
   {
-    "objectID": "front-page.html#footnotes",
-    "href": "front-page.html#footnotes",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Climate Adaptation of Democracy",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nProfessor, Department of Political Science, University of Copenhagen↩︎\nPostdoc, Department of Political Science, University of Copenhagen↩︎\nSenior Researcher, Danish Meteorological Institute (DMI)↩︎"
+    "section": "",
+    "text": "Climate Adaptation of Democracy (CAD): Climate impacts on environmental and democratic attitudes studies how adverse climate events affect democracy. The project asks: How do adverse local climate events affect citizens’ attitudes towards democracy and the green transition, and what strategies for communication can help create effects that are environmentally and democratically sustainable?\nCAD is based at the  Department of Political Science, University of Copenhagen, and funded by the Independent Research Fund Denmark (DFF). It is led by  Professor Kasper M. Hansen with  Postdoc Søren Damsbo-Svendsen, both at the University of Copenhagen, and  Senior Researcher Morten A. Dahl Larsen from the Danish Meteorological Institute (DMI)."
+  },
+  {
+    "objectID": "index.html#waiting-for-the-storm",
+    "href": "index.html#waiting-for-the-storm",
+    "title": "Climate Adaptation of Democracy",
+    "section": "Waiting for the storm",
+    "text": "Waiting for the storm\nTwelve times between 2011 and 2023, the Danish authorities officially declared a storm surge: sea water over the coast, and often into people’s homes. When the next one comes, our survey can reach residents of the hit coastline within about four weeks, while the experience is still fresh, and ask about their views on climate action and on democracy.\nMost of what we know about disasters and public opinion comes from surveys that happened to be in the field, or from asking people long afterwards. We built the study first, and now we wait for the next surge."
+  },
+  {
+    "objectID": "index.html#what-it-took-to-get-ready",
+    "href": "index.html#what-it-took-to-get-ready",
+    "title": "Climate Adaptation of Democracy",
+    "section": "What it took to get ready",
+    "text": "What it took to get ready\nGetting a survey into the field within weeks of a disaster took a lot of groundwork:\n\n\nWe reconstructed every official storm-surge declaration from 2011 to 2023, so we know where and how the declarations come.\nWe mapped every one-kilometre square of Danish coast with homes inside the storm-surge risk area. Together, these squares hold more than 500,000 homes.\nWithin days of a surge, we model the flooding with DMI to find which homes the water reached.\nWith Denmark’s national registers and the survey agency Epinion, we can turn a list of coastal addresses into survey invitations in people’s Digital Post within weeks."
+  },
+  {
+    "objectID": "index.html#whats-next",
+    "href": "index.html#whats-next",
+    "title": "Climate Adaptation of Democracy",
+    "section": "What’s next",
+    "text": "What’s next\n\n\nMore storms. We can reuse the design. Each surge we survey adds a new case, and with enough cases we can study how communities respond to repeated flooding.\n\n\nExperiments. Survey experiments on how to talk about climate risk and adaptation in ways that sustain both climate action and trust in democracy.\n\n\nA national picture. A nationwide survey on the same questions: what Danes expect of their democracy when climate events hit close to home."
   }
 ]
